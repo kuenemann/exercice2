@@ -88,3 +88,6 @@ function exercice 4(){
         console.log(firstName+""+lastName);
     }
     exercice5();
+
+
+    
